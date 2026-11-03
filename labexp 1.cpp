@@ -24,8 +24,8 @@ public:
      }
 };
 int main(){
-   Students boba(007,"Akshay");
-   boba.display();
+   Students s1(101,"Arun");
+   s1.display();
    return 0;
 
 } 
